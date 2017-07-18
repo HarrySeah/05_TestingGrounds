@@ -59,3 +59,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * To LFS or Not to LFS? --> **Lecture 253**
 * Child Actor Components --> **Lecture 254**
 * Introduction to Inverse Kinematics --> **Lecture 255**
+* Inverse Kinematics with Animations --> **Lecture 256**
