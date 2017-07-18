@@ -57,3 +57,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Configuring the Gun --> **Lecture 251**
 * Moving Files from LFS to Git --> **Lecture 252**
 * To LFS or Not to LFS? --> **Lecture 253**
+* Child Actor Components --> **Lecture 254**
