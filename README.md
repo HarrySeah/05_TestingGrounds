@@ -61,3 +61,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Introduction to Inverse Kinematics --> **Lecture 255**
 * Inverse Kinematics with Animations --> **Lecture 256**
 * Comparing Blueprints with Diffs --> **Lecture 257**
+* Boolean Blending for Aim States --> **Lecture 258**
