@@ -64,3 +64,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Boolean Blending for Aim States --> **Lecture 258**
 * Adding Firing Animations --> **Lecture 259**
 * Animation Notify Events --> **Lecture 260**
+* Taking Damage in Blueprint --> **Lecture 260**
