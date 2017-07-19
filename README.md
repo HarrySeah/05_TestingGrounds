@@ -63,4 +63,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Comparing Blueprints with Diffs --> **Lecture 257**
 * Boolean Blending for Aim States --> **Lecture 258**
 * Adding Firing Animations --> **Lecture 259**
-
+* Animation Notify Events --> **Lecture 260**
