@@ -69,3 +69,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Switching 1st and 3rd Person --> **Lecture 263**
 * Owner Invisible Meshes --> **Lecture 264**
 * Separating Firing from Gun Meshes --> **Lecture 265**
+* Aiming Our 1st Person Camera --> **Lecture 266**
