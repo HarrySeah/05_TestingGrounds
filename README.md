@@ -67,3 +67,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Taking Damage in Blueprint --> **Lecture 261**
 * Death Animations and Refactors --> **Lecture 262**
 * Switching 1st and 3rd Person --> **Lecture 263**
+* Owner Invisible Meshes --> **Lecture 264**
