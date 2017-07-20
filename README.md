@@ -68,3 +68,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Death Animations and Refactors --> **Lecture 262**
 * Switching 1st and 3rd Person --> **Lecture 263**
 * Owner Invisible Meshes --> **Lecture 264**
+* Separating Firing from Gun Meshes --> **Lecture 265**
