@@ -74,3 +74,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Spawning Terrain in the GameMode --> **Lecture 268**
 * Level Gating for Testing Grounds --> **Lecture 269**
 * Swapping Materials in Blueprint --> **Lecture 270**
+* Garbage Collecting Previous Tiles --> **Lecture 271**
