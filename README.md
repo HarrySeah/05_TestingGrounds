@@ -71,3 +71,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Separating Firing from Gun Meshes --> **Lecture 265**
 * Aiming Our 1st Person Camera --> **Lecture 266**
 * Architecture of Infinite Runners --> **Lecture 267**
+* Spawning Terrain in the GameMode --> **Lecture 268**
