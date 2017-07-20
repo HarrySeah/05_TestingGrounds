@@ -73,3 +73,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Architecture of Infinite Runners --> **Lecture 267**
 * Spawning Terrain in the GameMode --> **Lecture 268**
 * Level Gating for Testing Grounds --> **Lecture 269**
+* Swapping Materials in Blueprint --> **Lecture 270**
