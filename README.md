@@ -79,3 +79,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Hit vs Overlap Events --> **Lecture 273**
 * Dynamically Calculating NavMesh --> **Lecture 274**
 * Keep It Simple Stupid --> **Lecture 275**
+* Parallel Behaviour Tree Tasks --> **Lecture 276**
