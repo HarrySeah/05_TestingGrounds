@@ -78,3 +78,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Merging Our TP and FP Files --> **Lecture 272**
 * Hit vs Overlap Events --> **Lecture 273**
 * Dynamically Calculating NavMesh --> **Lecture 274**
+* Keep It Simple Stupid --> **Lecture 275**
