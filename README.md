@@ -87,3 +87,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Who’s Pulled the Trigger? --> **Lecture 281**
 * Cooldown Nodes & Gameplay Tags --> **Lecture 282**
 * Animation Montages and Slots --> **Lecture 283**
+* Reattaching the Gun --> **Lecture 284**
