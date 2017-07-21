@@ -85,3 +85,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Physical Gun Architecture --> **Lecture 279**
 * Converting a Character BP to C++ --> **Lecture 280**
 * Who’s Pulled the Trigger? --> **Lecture 281**
+* Cooldown Nodes & Gameplay Tags --> **Lecture 282**
