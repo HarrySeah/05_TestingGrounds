@@ -80,3 +80,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Dynamically Calculating NavMesh --> **Lecture 274**
 * Keep It Simple Stupid --> **Lecture 275**
 * Parallel Behaviour Tree Tasks --> **Lecture 276**
+* Custom BT Tasks and Decorators --> **Lecture 277**
