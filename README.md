@@ -94,3 +94,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Sphere Casting in C++ --> **Lecture 288**
 * Configure Custom Trace Channels --> **Lecture 289**
 * Spawning into Free Space --> **Lecture 290**
+* Randomising Rotation & Scale --> **Lecture 291**
