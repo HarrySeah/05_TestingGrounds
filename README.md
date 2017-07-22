@@ -89,3 +89,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Animation Montages and Slots --> **Lecture 283**
 * Reattaching the Gun --> **Lecture 284**
 * Procedural Level Generation --> **Lecture 285**
+* Generating Random Numbers --> **Lecture 286**
