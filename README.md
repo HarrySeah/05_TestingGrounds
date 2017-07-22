@@ -91,3 +91,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Procedural Level Generation --> **Lecture 285**
 * Generating Random Numbers --> **Lecture 286**
 * Spawning Actors in the Tile --> **Lecture 287**
+* Sphere Casting in C++ --> **Lecture 288**
