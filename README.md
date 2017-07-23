@@ -95,3 +95,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Configure Custom Trace Channels --> **Lecture 289**
 * Spawning into Free Space --> **Lecture 290**
 * Randomising Rotation & Scale --> **Lecture 291**
+* Flyweight Pattern for Foliage --> **Lecture 292**
