@@ -106,3 +106,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Spawning AI from C++ --> **Lecture 300**
 * Understanding Function Templates --> **Lecture 301**
 * Template Specialization --> **Lecture 302**
+* Fixing Double Spawning --> **Lecture 303**
