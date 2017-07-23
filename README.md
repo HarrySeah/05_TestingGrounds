@@ -100,3 +100,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Find Actors of Type from C++ --> **Lecture 294**
 * Plumbing an Actor Pool Setup --> **Lecture 295**
 * Using the Pool API --> **Lecture 296**
+* Using TArray for Pools --> **Lecture 297**
