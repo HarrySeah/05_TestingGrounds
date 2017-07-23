@@ -113,3 +113,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Recruiting Play Testers --> **Lecture 307**
 * Smooth Blending the Camera --> **Lecture 308**
 * Possessing and the View Target --> **Lecture 309**
+* The Calm Before The Storm --> **Lecture 310**
