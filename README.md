@@ -104,3 +104,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Rebuilding Navigation Meshes --> **Lecture 298**
 * Structs to Simplify Function Args --> **Lecture 299**
 * Spawning AI from C++ --> **Lecture 300**
+* Understanding Function Templates --> **Lecture 301**
