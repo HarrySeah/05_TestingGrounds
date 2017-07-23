@@ -105,3 +105,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Structs to Simplify Function Args --> **Lecture 299**
 * Spawning AI from C++ --> **Lecture 300**
 * Understanding Function Templates --> **Lecture 301**
+* Template Specialization --> **Lecture 302**
