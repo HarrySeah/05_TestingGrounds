@@ -110,3 +110,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Keeping Score --> **Lecture 304**
 * Using the HUD Class --> **Lecture 305**
 * Post Processing for Tunnel Vision --> **Lecture 306**
+* Recruiting Play Testers --> **Lecture 307**
