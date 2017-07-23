@@ -103,3 +103,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Using TArray for Pools --> **Lecture 297**
 * Rebuilding Navigation Meshes --> **Lecture 298**
 * Structs to Simplify Function Args --> **Lecture 299**
+* Spawning AI from C++ --> **Lecture 300**
