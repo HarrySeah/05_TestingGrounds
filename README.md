@@ -99,3 +99,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Choosing Waypoint with EQS --> **Lecture 293**
 * Find Actors of Type from C++ --> **Lecture 294**
 * Plumbing an Actor Pool Setup --> **Lecture 295**
+* Using the Pool API --> **Lecture 296**
