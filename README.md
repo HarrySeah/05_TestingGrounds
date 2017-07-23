@@ -108,3 +108,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Template Specialization --> **Lecture 302**
 * Fixing Double Spawning --> **Lecture 303**
 * Keeping Score --> **Lecture 304**
+* Using the HUD Class --> **Lecture 305**
