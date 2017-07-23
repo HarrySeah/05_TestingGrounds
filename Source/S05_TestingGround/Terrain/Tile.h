@@ -26,6 +26,10 @@ protected:
 
 	virtual void EndPlay(const EEndPlayReason::Type EndPlayReason) override;
 
+	UPROPERTY(EditDefaultsOnly, Category = "Navigation")
+	FVector NavigationBoundsOffSet;
+
+
 	UPROPERTY(EditDefaultsOnly, Category = "Spawning")
 	FVector MinExtent;
 
