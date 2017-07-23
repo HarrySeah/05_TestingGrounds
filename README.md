@@ -112,3 +112,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Post Processing for Tunnel Vision --> **Lecture 306**
 * Recruiting Play Testers --> **Lecture 307**
 * Smooth Blending the Camera --> **Lecture 308**
+* Possessing and the View Target --> **Lecture 309**
