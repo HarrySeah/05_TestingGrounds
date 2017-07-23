@@ -97,3 +97,4 @@ This project is learn from [here](https://github.com/UnrealCourse/05_TestingGrou
 * Randomising Rotation & Scale --> **Lecture 291**
 * Flyweight Pattern for Foliage --> **Lecture 292**
 * Choosing Waypoint with EQS --> **Lecture 293**
+* Find Actors of Type from C++ --> **Lecture 294**
